@@ -1,0 +1,92 @@
+div {
+    padding: 20px;
+    text-align: center;
+    margin: 4px;
+    border: 12px;
+    box-shadow: 60px 24px 40px lightgreen;
+    background-color: brown;
+}
+
+body {
+    color: lavenderblush;
+    background: rgb(169 44 44);
+    font-family: sans-serif;
+
+
+
+head{
+	color: maroon;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+a{
+	color: coral;
+	font-size: 25px;
+	font-family: cursive;
+
+}
+
+a:hover{
+	color: purple;
+}
+
+article {
+    color: gold;
+    font-weight: bolder;
+    font-family: -webkit-pictograph;
+    background-color: black;
+
+}
+p {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: limegreen;
+    background-color: deeppink;
+    flex-shrink: initial;
+    border-block-start-color: initial;
+    font-variant-caps: unicase;
+    shape-margin: 50%;
+    text-decoration-color: blueviolet;
+    margin-right: inherit;
+    white-space: nowrap;
+}
+
+.div{
+	background-color: rgba(10,25,30,0.3);
+	font-weight: bolder;
+}
+
+.container {
+    color: blanchedalmond;
+    font-style: italic;
+    font-weight: lighter;
+    box-shadow: 10px 12px 20px;
+    border-color: #008069;
+	border-radius: 6px;
+}
+
+section{
+	border-color: red;
+	border-radius: 50%;
+	border-style: dotted;
+	color: purple;
+	padding: 30px;
+	margin: 20px;
+
+side {
+    border: dotted;
+    color: chocolate;
+    border-color: chocolate;
+    margin-bottom: auto;
+    margin-block-end: inherit;
+}
+
+h1+h2{
+    font-weight: bolder;
+    font-family: ariel;
+    margin: auto;
+    padding: 25px;
+    color: orange;
+    background-color: maroon;
+}
